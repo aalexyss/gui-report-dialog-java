@@ -11,6 +11,11 @@ The dialog allows users to:
 - Manage metadata such as name and note
 - Load existing definitions and show results
 
+# Included Components
+
+- `report-composer-dialog`: GUI for creating, editing, and managing composite reports (with sub-elements)
+- `report-selector-dialog`: GUI for selecting a report and opening it in context
+
 This code is extracted from a real-world application and demonstrates GUI logic written in Java (Swing) with custom table models and service integration.
 
 Note: This is a partial showcase focused on frontend logic only. Back-end services are not included.
